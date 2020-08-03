@@ -9,6 +9,7 @@
 
 @media (min-width: 500px) {
     .Person {
+        border: 1px solid green;
         width: 450px;
     }
 }
