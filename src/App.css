@@ -1,0 +1,8 @@
+.App ul {
+    list-style: none;
+}
+
+.App li {
+    margin: 0;
+    padding: 0;
+}
